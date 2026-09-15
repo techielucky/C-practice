@@ -5,6 +5,9 @@ void main{
     cout<<"hello world";
     int a;
     cout<<a;
-    cout<<"bollo";
+    int b;
+    int sum;
+    sum = a+b;
+    cout<<sum<<"sum is ";
     return 0;
 }
