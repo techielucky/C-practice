@@ -5,6 +5,6 @@ void main{
     cout<<"hello world";
     int a;
     cout<<a;
-    cout<<"hvdgc";
+    cout<<"hello";
     return 0;
 }
