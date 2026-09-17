@@ -8,7 +8,8 @@ void main{
     int b;
     int sum;
   sum = a+b;
- 
+   sum = a+b;
+      int sum;
     cout<<sum<<"sum is ";
     return 0;
 }
