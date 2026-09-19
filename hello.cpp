@@ -10,6 +10,6 @@ void main{
   sum = a+b;
       sum = a+b;
       int sum;
-    cout<<sum<<"sum is ";
+    cout<<sum<<"sum is... ";
     return 0;
 }
