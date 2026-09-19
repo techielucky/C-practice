@@ -11,5 +11,7 @@ void main{
       sum = a+b;
       int sum;
     cout<<sum<<"sum is... ";
+    if
+        else;
     return 0;
 }
